@@ -7,7 +7,8 @@ Niewielka aplikacja do obsługi zgłoszeń w zespole wsparcia. Zgłoszenia możn
 Potrzebne są PHP 8.2 lub nowsze i rozszerzenie `pdo_sqlite`. Nie ma zależności Composera.
 
 ```bash
-cd helpdesk-php
+git clone https://github.com/lawerski/rejestr-zgloszen-php.git
+cd rejestr-zgloszen-php
 php -S localhost:8000 -t public
 ```
 
