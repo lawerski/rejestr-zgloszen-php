@@ -1,0 +1,5 @@
+Ticket ID;Subject;Requester;Type;Severity;State;Details
+EXT-1001;Dostęp do katalogu zespołu;Katarzyna Lis;Permissions;P2;Open;Nowa osoba w zespole potrzebuje dostępu.
+EXT-1002;Problem z aplikacją finansową;Tomasz Maj;Application;P1;Assigned;Aplikacja pokazuje błąd przy zapisie dokumentu.
+EXT-1003;Awaria monitora;Natalia Król;Device;P3;Resolved;Wymieniono przewód zasilający.
+
